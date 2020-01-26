@@ -26,6 +26,9 @@
     "ios": {
       "supportsTablet": true
     },
+    "android": {
+      "package": "com.deltahacks.wasteman"
+    },
     "entryPoint": "node_modules/expo/AppEntry.js"
   },
   "displayName": "wasteman",
